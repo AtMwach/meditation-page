@@ -86,7 +86,7 @@ hr{
 
 @media (max-width: 768px){
   .container{
-    padding: 20px 40 px;
+    padding: 20px 40px;
 }
 
 h2{
@@ -95,7 +95,7 @@ h2{
 }
 
 button{
-  padding: 12px 20 px;
+  padding: 12px 20px;
   font-size: 14px;
 }
 
